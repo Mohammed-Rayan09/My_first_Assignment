@@ -1,0 +1,28 @@
+*{
+	margin:0;
+}
+h1{
+	text-align:center;
+	color:red;
+	background-color:Green;
+}
+h2{
+	margin-top:10px;
+	
+}
+table,th{
+	font-size:28px;
+	}
+p{
+	font-size:20px;
+	line-height:25px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-family:
+	
+}
+div{
+	margin:auto;
+	width:1000px;
+	
+}
